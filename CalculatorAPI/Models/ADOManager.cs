@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using System.Collections.Generic;
 using System.Data.SQLite;
-using System.IO;
 
 namespace CalculatorAPI.Models
 {
@@ -79,6 +75,7 @@ namespace CalculatorAPI.Models
             }
             return action;
         }
+
 
         public int DeleteAction(int id)
         {
