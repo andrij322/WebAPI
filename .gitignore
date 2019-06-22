@@ -1,9 +1,2 @@
 packages
 CalculatorAPI/obj
-CalculatorAPI/bin/ru
-CalculatorAPI/bin/x64
-CalculatorAPI/bin/x86
-CalculatorAPI/bin/*.dll
-CalculatorAPI/bin/*.pdb
-CalculatorAPI/bin/*.xml
-CalculatorAPI/bin/*.config
